@@ -1,0 +1,22 @@
+{
+  "name": "1bit",
+  "version": "1.0.0",
+  "description": "101101010",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dictions/1bit"
+  },
+  "keywords": [
+    "glitch"
+  ],
+  "author": "ian_dot_exe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dictions/1bit/issues"
+  },
+  "homepage": "https://github.com/dictions/1bit"
+}
