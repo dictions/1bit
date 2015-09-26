@@ -2,7 +2,7 @@
   "name": "1bit",
   "version": "1.0.0",
   "description": "101101010",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/dictions/1bit/issues"
   },
-  "homepage": "https://github.com/dictions/1bit"
+  "homepage": "https://github.com/dictions/1bit",
+  "devDependencies": {
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.12.0"
+  },
+  "dependencies": {
+    "html2canvas": "^0.5.0-alpha2"
+  }
 }
