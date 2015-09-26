@@ -51,7 +51,7 @@ var glitchDocument = function(callback) {
 		glitch(imageData, {
 			amount: Math.random() * 100,
 			seed: Math.random() * 100,
-			iterations: Math.random() * 20,
+			iterations: Math.random() * 50,
 			quality: 30 // ¯\_(ツ)_/¯
 		}, giveResults);
 	})
